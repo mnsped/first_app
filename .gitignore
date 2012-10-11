@@ -19,3 +19,5 @@ doc/
 *.swp
 *˜
 .project
+/.redcar
+
