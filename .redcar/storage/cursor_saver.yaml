@@ -1,4 +1,12 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: README
+    :cursor_offset: 99
+    :timestamp: 2012-10-11 01:29:09 -04:00
+  - :path: README.rdoc
+    :cursor_offset: 0
+    :timestamp: 2012-10-10 23:49:16 -04:00
+  - :path: .gitignore
+    :cursor_offset: 306
+    :timestamp: 2012-10-11 01:29:19 -04:00
 files_to_retain: 0
